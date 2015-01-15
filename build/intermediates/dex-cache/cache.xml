@@ -23,18 +23,18 @@
         <dex dex="/Users/mbmtuvshin/helloandroid/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f495ea93857a69d35a80725e568b7551cec929ab.jar" />
     </item>
     <item
-        jar="/Users/mbmtuvshin/AndroidStudioProjects/ttulga.hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/mbmtuvshin/AndroidStudioProjects/ttulga.hello/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-856ad967c7e18c9a259dfb9aae870ee85bc7339a.jar" />
-    </item>
-    <item
         jar="/Users/mbmtuvshin/helloandroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/Users/mbmtuvshin/helloandroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-135ee1c7f78b13c4b7a215744850e97751a9c148.jar" />
+    </item>
+    <item
+        jar="/Users/mbmtuvshin/AndroidStudioProjects/ttulga.hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mbmtuvshin/AndroidStudioProjects/ttulga.hello/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-856ad967c7e18c9a259dfb9aae870ee85bc7339a.jar" />
     </item>
     <item
         jar="/Users/mbmtuvshin/helloandroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
